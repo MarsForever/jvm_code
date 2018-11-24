@@ -1,3 +1,6 @@
+#unbuntu 10下添加openjdk 7u4 所需依赖命令
+sudo apt-get install build-essential gawk m4 openjdk-6-jdk libasoud2-dev libxrender-dev xorg-dev xutils-dev xllproto-print-dev binutils libmotif3 libmotif-dev ant
+
 #语言选项，这个必须设置，否则编译好后会出现一个HashTable的NPE错
 export LANG=C
 
