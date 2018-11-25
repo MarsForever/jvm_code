@@ -1,3 +1,6 @@
+https://stackoverflow.com/questions/5642367/extra-qualification-error-in-c
+https://stackoverflow.com/questions/5642367/extra-qualification-error-in-c
+
 #unbuntu 10下添加openjdk 7u4 所需依赖命令
 sudo apt-get install build-essential gawk m4 openjdk-6-jdk libasoud2-dev libxrender-dev xorg-dev xutils-dev xllproto-print-dev binutils libmotif3 libmotif-dev ant
 
